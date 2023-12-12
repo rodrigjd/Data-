@@ -1,0 +1,21 @@
+﻿Firearm Data Codebook,,
+,,
+Variable Name,Variable Description,Source
+state,State name,
+year,Year,
+division,Census division,
+total_population,linearly interpolated decennial Census population counts," from 1948-2005 and 2020, and from the American Community Survey from 2006-2019."
+fss,Firearm suicide divided by total suicide (FS/S),1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+homicide_rate,"homicide rate per 100,000 residents ",1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+firearm_homicide_rate,"firearm homicide rate per 100,000 residents ",1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+nonfirearm_homicide_rate,"firearm homicide rate per 100,000 residents ",1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+firearm_suicides,Count of firearm suicides,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+total_suicides,Count of all suicides,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+firearm_homicides,Count of firearm homicides,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+nonfirearm_homicides,Count of all nonfirearm homicides,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+total_homicides,Count of total homicides,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+white_fss,FSS for white population,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+nonwhite_fss,FSS for nonwhite population,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+nextyearfss,Next year's FS/S,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+nextyearnonwhitefss,Next year's nonwhite FS/S,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
+nextyearwhitefss,Next year's white FS/S,1949-1978 National Center for Health Statistics scans of Vital Statistics reports; 1981-2020 from CDC WISQARS; 1979 and 1980 from CDC WONDER
